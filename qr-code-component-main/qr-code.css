@@ -1,0 +1,46 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    font-family: 'outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: hsl(220, 15%, 55%);
+    /* width: 200px; */
+
+  }
+
+  .container{
+    font-family: 'outfit', sans-serif;
+     box-sizing: border-box;
+     display: flex;
+     width: 325px;
+     height: 475px;
+     margin: 5px;
+     padding: 15px;
+     border: 1px solid white; 
+     border-radius: 25px;
+     background-color: white;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     
+  }
+
+  h2{
+      text-align: center;
+  }
+  p{
+      text-align: center;
+      font-size: 15px
+  }
+
+
+  img{
+      width: 275px;
+      height: 275px;
+  }
