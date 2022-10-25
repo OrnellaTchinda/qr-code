@@ -20,7 +20,7 @@
 
 ### Screenshot
 
-![](WebCapture_qr_Code.jpeg)
+![](https://github.com/OrnellaTchinda/qr-code/blob/b7adc55c9bd1220f654b8fb272407666f0f4812a/qr-code-component-main/design/desktop-design.jpg)
 
 
 
